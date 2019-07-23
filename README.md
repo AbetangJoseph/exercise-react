@@ -1,4 +1,5 @@
 # Exercise React
+[![CircleCI](https://circleci.com/gh/AbetangJoseph/exercise-react.svg?style=svg)](https://circleci.com/gh/AbetangJoseph/exercise-react)
 
 Run the server with
 
